@@ -161,11 +161,11 @@ NVDA:
 
 ## Visualization
 
-![Historical Closing Prices and Volatility Analysis](./output_charts.png)
+![Historical Closing Prices and Volatility Analysis](output_charts.png)
 
 The system generates two key visualizations to help understand market dynamics:
 
-1. **Historical Closing Prices (Top)**: 
+1. **Historical Closing Prices (Top)**:
    - Shows the price evolution of all assets in the portfolio
    - Helps identify trends, patterns, and relative performance
    - Each asset is represented by a different color line
