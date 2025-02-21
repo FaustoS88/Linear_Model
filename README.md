@@ -160,9 +160,10 @@ NVDA:
   Impact: 1.9% increase
 
 ## Visualization
-
+```
 ![Image](https://github.com/user-attachments/assets/6e207636-f2a8-4d00-a516-24051f3185d9)
 
+```
 The system generates two key visualizations to help understand market dynamics:
 
 1. **Historical Closing Prices (Top)**:
