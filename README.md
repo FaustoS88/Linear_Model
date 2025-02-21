@@ -1,6 +1,6 @@
 # Linear Trading Model
 
-An Linear Model Quantitative trading system that combines ARIMA forecasting, machine learning predictions, sentiment analysis, and portfolio optimization to generate investment recommendations.
+A Quantitative trading system that combines ARIMA forecasting, machine learning predictions, sentiment analysis, and portfolio optimization to generate investment recommendations.
 
 ## Features
 
