@@ -496,6 +496,7 @@ def integrated_trading_system_v6():
         ax2.set_ylabel("Volatility")
         
         plt.tight_layout()
+        plt.savefig('output_charts.png')  # Save the figure before showing it
         plt.show()
         
         return {
